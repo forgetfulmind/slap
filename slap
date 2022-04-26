@@ -1,5 +1,5 @@
 
 {
-"fish" : ["a herring"],
-"aggro": ["sucks eggs"],
+"fish": "a herring",
+"aggro": "sucks eggs",
 }
